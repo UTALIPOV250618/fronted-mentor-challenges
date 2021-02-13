@@ -128,7 +128,7 @@ h1{
     top: 300px;
 }
 .background1{
-    position: relative;
+    position: fixed;
     bottom: 400px;
     left: -250px;
 }
