@@ -10,6 +10,7 @@ body{
 
 .container{
   border: 2px solid #a4ebf3;
+  display: flex;
   border-radius: 20px;
   width: 360px;
   height: 450px;  
