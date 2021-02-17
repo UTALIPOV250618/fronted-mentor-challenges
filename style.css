@@ -32,9 +32,6 @@ body {
     text-decoration: none;
     font-size: 1rem;
 }
-.container>div{
- /* margin-bottom: 3rem; */
-}
 .top-container {
     background-image: url("./images/bg-pattern-card.svg");
     height:20vh;
